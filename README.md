@@ -7,7 +7,7 @@ A modern full-stack Node.js application that supports user registration and logi
 
 ## 📸 Preview
 
-| Register Page | Login Page | Profile Page |
+| Register Page | 
 |---------------|------------|---------------|
 | ![Register](<img width="1362" height="681" alt="Screenshot 2025-07-16 032731" src="https://github.com/user-attachments/assets/0f58f4c9-b3ae-44da-add7-342450e84c4b" />
  | ![Login](<img width="1342" height="680" alt="Screenshot 2025-07-16 030224" src="https://github.com/user-attachments/assets/abfd147b-913b-45ec-a4e6-c6ff35a7c627" />
