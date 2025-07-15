@@ -63,7 +63,7 @@ npm install express mongoose multer cloudinary ejs path dotenv
 
 <footer class="footer-custom">
   <div class="container">
-    <p>&copy; 2025 <strong>Inox-Auth</strong> | Built with ❤️ by <a href="https://www.linkedin.com/in/rushikeshjadhav2004" target="_blank">Rishii Jadhav</a></p>
+    <p>&copy; 2025 <strong>Inox-Auth</strong> | Built with ❤️ by <a href="https://www.linkedin.com/in/rushikeshjadhav2004" target="_blank">Rushikesh Jadhav</a></p>
     <p>
       <a href="https://www.linkedin.com/in/rushikeshjadhav2004" target="_blank">🔗 LinkedIn</a> |
       <a href="https://github.com/RushikeshJadhav2004" target="_blank">🔗 GitHub</a>
